@@ -1,0 +1,9 @@
+# @package _group_
+name: method
+attributes:
+  - external
+  - native
+  - public
+  - static
+  - codesize
+size: 5

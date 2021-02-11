@@ -1,0 +1,9 @@
+# @package _group_
+name: wandb
+args:
+  project: malware_homo
+  log_model: true
+hparams:
+  convolution_algorithm:  ${model.convolution_algorithm}
+  features: ${features.name}
+  convolution_count: ${model.convolution_count}
